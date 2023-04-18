@@ -19,3 +19,8 @@ python test_evaluation_maps.py
 ```
 
 Make sure that you have changes the path to your dataset in the [config file](https://github.com/Zongwei97/HIDANet/blob/main/Code/utils/options.py)
+
+# Qualitative Results
+
+![restuls](https://github.com/Zongwei97/HIDANet/blob/main/Imgs/hidaresults.png)
+
