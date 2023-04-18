@@ -24,6 +24,9 @@ Make sure that you have changes the path to your dataset in the [config file](ht
 
 ![results](https://github.com/Zongwei97/HIDANet/blob/main/Imgs/hidaresult.png)
 
+# Citation
+
+If you find this repo useful, please consider citing:
 ```
 @ARTICLE{wu2023hida,
   author={Wu, Zongwei and Allibert, Guillaume and Meriaudeau, Fabrice and Ma, Chao and Demonceaux, Cédric},
