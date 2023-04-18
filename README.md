@@ -24,3 +24,19 @@ Make sure that you have changes the path to your dataset in the [config file](ht
 
 ![results](https://github.com/Zongwei97/HIDANet/blob/main/Imgs/hidaresult.png)
 
+```
+@ARTICLE{wu2023hida,
+  author={Wu, Zongwei and Allibert, Guillaume and Meriaudeau, Fabrice and Ma, Chao and Demonceaux, Cédric},
+  journal={IEEE Transactions on Image Processing}, 
+  title={HiDAnet: RGB-D Salient Object Detection via Hierarchical Depth Awareness}, 
+  year={2023},
+  volume={32},
+  number={},
+  pages={2160-2173},
+  doi={10.1109/TIP.2023.3263111}}
+```
+
+
+
+# Acknowledgments
+This repository is heavily based on [SPNet](https://github.com/taozh2017/SPNet). Thanks to their great work!
