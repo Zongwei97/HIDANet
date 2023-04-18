@@ -22,5 +22,5 @@ Make sure that you have changes the path to your dataset in the [config file](ht
 
 # Qualitative Results
 
-![restuls](https://github.com/Zongwei97/HIDANet/blob/main/Imgs/hidaresults.png)
+![results](https://github.com/Zongwei97/HIDANet/blob/main/Imgs/hidaresults.png)
 
