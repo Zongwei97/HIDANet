@@ -13,4 +13,4 @@ python test_produce_maps.py
 python test_evaluation_maps.py
 ```
 
-Make sure that you have changes the path to your dataset in the ![config file](https://github.com/Zongwei97/HIDANet/blob/main/Code/utils/options.py)
+Make sure that you have changes the path to your dataset in the [config file](https://github.com/Zongwei97/HIDANet/blob/main/Code/utils/options.py)
