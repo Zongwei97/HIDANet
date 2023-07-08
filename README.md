@@ -22,8 +22,7 @@ Make sure that you have changed the path to your dataset in the [config file](ht
 
 # Saliency Maps
 
-Our saliency maps can be found ![here](https://drive.google.com/file/d/1G6PAEu3_LxgSAmjsu_KgqnuJS7tYaFYO/view?usp=sharing)
-
+Our saliency maps can be found [here](https://drive.google.com/file/d/1G6PAEu3_LxgSAmjsu_KgqnuJS7tYaFYO/view?usp=sharing)
 
 
 # Qualitative Comparison
