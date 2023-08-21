@@ -45,6 +45,11 @@ If you find this repo useful, please consider citing:
 ```
 
 
+# Related works
+- ICCV 23 - Source-free Depth for Object Pop-out [[Code]( https://github.com/Zongwei97/PopNet)]
+- ACMMM 23 - Object Segmentation by Mining Cross-Modal Semantics [[Code](https://github.com/Zongwei97/XMSNet))]
+- 3DV 22 - Robust RGB-D Fusion for Saliency Detection [[Code](https://github.com/Zongwei97/RFnet)]
+- 3DV 21 - Modality-Guided Subnetwork for Salient Object Detection [[Code](https://github.com/Zongwei97/MGSnet)]
 
 # Acknowledgments
 This repository is heavily based on [SPNet](https://github.com/taozh2017/SPNet). Thanks to their great work!
